@@ -1,0 +1,8 @@
+@inproceedings{REPO-350,
+    author = "Rakelly, Kate and Zhou, Aurick and Finn, Chelsea and Levine, Sergey and Quillen, Deirdre",
+    booktitle = "International conference on machine learning",
+    organization = "PMLR",
+    pages = "5331--5340",
+    title = "{Efficient Off-policy Meta-reinforcement Learning via Probabilistic Context Variables}",
+    year = "2019"
+}
